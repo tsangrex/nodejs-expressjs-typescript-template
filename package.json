@@ -1,0 +1,35 @@
+{
+  "name": "nodejs-expressjs-typescript-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsangrex/nodejs-expressjs-typescript-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tsangrex/nodejs-expressjs-typescript-template/issues"
+  },
+  "homepage": "https://github.com/tsangrex/nodejs-expressjs-typescript-template#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "express-jwt": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.17.0",
+    "@types/cors": "^2.8.4",
+    "@types/express": "^4.16.0",
+    "@types/express-jwt": "0.0.40",
+    "@types/jsonwebtoken": "^8.3.0",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.2.1"
+  }
+}
